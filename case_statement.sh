@@ -1,5 +1,5 @@
-job = "DevOps Engineer"
-
+job="DevOps Engineer"
+#just learnt that variable assignment in bash shouldn't have spaces around the equal sign
 case $job in
 	"Software Engineer")
 		echo "I think the industry has too many of this. Not a bad role, if the project is exciting"
